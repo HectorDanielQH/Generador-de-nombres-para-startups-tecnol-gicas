@@ -201,20 +201,10 @@
                 items.forEach((item,index) => {
                     const nombres = item.querySelectorAll("nombre");
                     innerHTML+=`<li class="nav-item dropdown">
-                                    <a class="nav-link ${index==0||index==1||index==2?'':'dropdown-toggle'}" href="${index==0?'./index.html':index==1?'./formulario/formulario.html':index==2?'./Resultados/resultados.html':''}" id="moreLanguages" role="button" ${index==0||index==1||index==2?'':"data-bs-toggle='dropdown'"} aria-expanded="false">
+                                    <a class="nav-link" href="${index==0?'./index.html':index==1?'./formulario/formulario.html':index==2?'./Resultados/resultados.html':index==3?'./recomendaciones/recomendaciones.html':index==4?'./comunidad/comunidad.html':index==5?'./extras/extras.html':index==6?'./faq/faq.html':index==7?'./contacto/contacto.html':''}" id="moreLanguages" role="button"} aria-expanded="false">
                                         ${item.querySelector(languaje).textContent}
-                                    </a>`;
-                    if(index!==0||index!==1||index!==2){
-                        innerHTML+=`<ul class="dropdown-menu" aria-labelledby="moreLanguages">`;
-                        nombres.forEach((nombre, index) => {
-                            if(index!==0)
-                                innerHTML+=`<li><a class="dropdown-item" href="#">${nombre.querySelector(languaje).textContent}</a></li>`;
-                        });
-                        innerHTML+=`</ul>`;
-                    }
-                    else{
-                        innerHTML+=`</li>`;
-                    }
+                                    </a>
+                                </li>`;
                 });
 
                 innerHTML+=`
