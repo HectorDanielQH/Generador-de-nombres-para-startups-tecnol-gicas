@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item>
+        <nombre>
+            <es>Inicio</es>
+            <en>Home</en>
+        </nombre>
+    </item>
+
+    <item>
+        <nombre>
+            <es>Formulario de Generación de Nombres</es>
+            <en>Name Generation Form</en>
+        </nombre>
+
+        <nombre>
+            <es>Tipo de tecnología de la startup (software, hardware, IA, etc.)</es>
+            <en>Startup Technology Type (software, hardware, AI, etc.)</en>
+        </nombre>
+        <link>generaciontipotecnologia.html</link>
+
+        <nombre>
+            <es>Enfoque o misión de la empresa</es>
+            <en>Company Focus or Mission</en>
+        </nombre>
+        <link>enfoquedelaempresa.html</link>
+
+        <nombre>
+            <es>Palabras clave relacionadas con el negocio</es>
+            <en>Keywords Related to the Business</en>
+        </nombre>
+        <link>palabrasclave.html</link>
+
+        <nombre>
+            <es>Preferencias de estilo (moderno, tradicional, innovador)</es>
+            <en>Style Preferences (modern, traditional, innovative)</en>
+        </nombre>
+        <link>preferenciasdeestilo.html</link>
+    </item>
+
+    <item>
+        <nombre>
+            <es>Resultados</es>
+            <en>Results</en>
+        </nombre>
+
+        <nombre>
+            <es>Nombres generados automáticamente</es>
+            <en>Automatically Generated Names</en>
+        </nombre>
+        <link>nombresgeneradosautomaticamente.html</link>
+
+        <nombre>
+            <es>Opciones de nombres y su disponibilidad de dominio</es>
+            <en>Name Options and Domain Availability</en>
+        </nombre>
+        <link>opcionesdenombresysudisponibilidad.html</link>
+
+        <nombre>
+            <es>Recomendaciones de nombres creativos</es>
+            <en>Creative Name Recommendations</en>
+        </nombre>
+        <link>recomendacionesdenombrescreativos.html</link>
+
+        <nombre>
+            <es>Consejos para elegir el nombre adecuado</es>
+            <en>Tips for Choosing the Right Name</en>
+        </nombre>
+        <link>consejosparaelejirnombre.html</link>
+    </item>
+
+    <item>
+        <nombre>
+            <es>Recomendaciones</es>
+            <en>Recommendations</en>
+        </nombre>
+
+        <nombre>
+            <es>Artículos sobre la importancia del nombre en los negocios</es>
+            <en>Articles on the Importance of Names in Business</en>
+        </nombre>
+        <link>articulosobreimportancia.html</link>
+
+        <nombre>
+            <es>Consejos sobre cómo registrar una empresa</es>
+            <en>Tips on How to Register a Business</en>
+        </nombre>
+        <link>censejoscomoregistrar.html</link>
+
+        <nombre>
+            <es>Videos sobre el proceso de creación de una startup</es>
+            <en>Videos on the Startup Creation Process</en>
+        </nombre>
+        <link>videossobreprocesocreacionstartup.html</link>
+
+        <nombre>
+            <es>Recomendaciones para construir una marca sólida</es>
+            <en>Recommendations for Building a Strong Brand</en>
+        </nombre>
+        <link>recomencaiconescnostruirmarca.html</link>
+    </item>
+
+    <item>
+        <nombre>
+            <es>Comunidad</es>
+            <en>Community</en>
+        </nombre>
+
+        <nombre>
+            <es>Foros sobre nombres y branding</es>
+            <en>Forums on Names and Branding</en>
+        </nombre>
+        <link>forossobrenombresybranding.html</link>
+
+        <nombre>
+            <es>Encuentros de emprendedores de startups tecnológicas</es>
+            <en>Meetups for Tech Startup Entrepreneurs</en>
+        </nombre>
+        <link>emprendedoresdestartups.html</link>
+
+        <nombre>
+            <es>Consejos de expertos sobre naming y branding</es>
+            <en>Expert Advice on Naming and Branding</en>
+        </nombre>
+        <link>consejosexpertossobrenaming.html</link>
+
+        <nombre>
+            <es>Discusión sobre nombres innovadores en tecnología</es>
+            <en>Discussion on Innovative Names in Technology</en>
+        </nombre>
+        <link>discucionsobrenombres.html</link>
+    </item>
+
+    <item>
+        <nombre>
+            <es>Extras</es>
+            <en>Extras</en>
+        </nombre>
+
+        <nombre>
+            <es>Videos sobre creación de nombres de marcas</es>
+            <en>Videos on Brand Name Creation</en>
+        </nombre>
+        <link>videossobrecreacion.html</link>
+
+        <nombre>
+            <es>Artículos sobre marketing para startups</es>
+            <en>Articles on Marketing for Startups</en>
+        </nombre>
+        <link>articulososbremarketing.html</link>
+
+        <nombre>
+            <es>Consejos sobre cómo probar la efectividad de un nombre</es>
+            <en>Tips on How to Test the Effectiveness of a Name</en>
+        </nombre>
+        <link>consejoscomoprobarlaefectividad.html</link>
+
+        <nombre>
+            <es>Recomendaciones de herramientas para crear marcas</es>
+            <en>Recommendations for Brand Creation Tools</en>
+        </nombre>
+        <link>recomendacionesdeherramientas.html</link>
+    </item>
+
+    <item>
+        <nombre>
+            <es>FAQ</es>
+            <en>FAQ</en>
+        </nombre>
+
+        <nombre>
+            <es>¿Puedo generar más de un nombre?</es>
+            <en>Can I Generate More than One Name?</en>
+        </nombre>
+        <link>puedogenerar.html</link>
+
+        <nombre>
+            <es>¿Cómo saber si el nombre está registrado?</es>
+            <en>How Can I Check if the Name Is Registered?</en>
+        </nombre>
+        <link>comosabersielnombre.html</link>
+
+        <nombre>
+            <es>¿Puedo usar los nombres sugeridos en mi dominio web?</es>
+            <en>Can I Use the Suggested Names for My Website Domain?</en>
+        </nombre>
+        <link>nombressugeridosenemidominio.html</link>
+
+        <nombre>
+            <es>Contactar soporte</es>
+            <en>Contact Support</en>
+        </nombre>
+        <link>soporte.html</link>
+    </item>
+    
+    <item>
+        <nombre>
+            <es>Contacto</es>
+            <en>Contact</en>
+        </nombre>
+
+        <nombre>
+            <es>Formulario de contacto</es>
+            <en>Contact Form</en>
+        </nombre>
+        <link>formulariocontacto.html</link>
+
+        <nombre>
+            <es>Redes sociales</es>
+            <en>Social Media</en>
+        </nombre>
+        <link>redessociales.html</link>
+    </item>
+</menu>
